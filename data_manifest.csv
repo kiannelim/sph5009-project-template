@@ -1,2 +1,3 @@
 "file_name","expected_sha256"
-"dummy.csv","8a0f8c73915d15ea13c29cf9154552534f57f42c1ee425d920f1c3cb50df0bbe"
+"clinic_raw.csv","59af30554a4d32a50c2731f16fe6f260fdbf9dd96ff1bd7b061502c60dc1aae9"
+"dummy.csv",NA

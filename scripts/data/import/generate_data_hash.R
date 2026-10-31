@@ -16,7 +16,6 @@ if (!dir.exists(data_dir)) {
         "to its real location, see README.md section 3.2."
     )
 }
-
 # Files to hash: every file in data/
 files = list.files(data_dir, recursive = TRUE)
 
